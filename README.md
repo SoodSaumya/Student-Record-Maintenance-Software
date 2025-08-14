@@ -1,0 +1,1 @@
+These are just a few exemplary snippets of my Student Record Maintenance Software which made use of SQL commands in Oracle DB, PHP for API calling and HTML,CSS for simple user friendly front-end forms. Postman was used as atool to check API calling.
