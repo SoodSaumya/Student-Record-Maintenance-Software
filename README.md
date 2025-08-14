@@ -1,1 +1,1 @@
-These are just a few exemplary snippets of my Student Record Maintenance Software which made use of SQL commands in Oracle DB, PHP for API calling and HTML,CSS for simple user friendly front-end forms. Postman was used as a tool to check API calling.
+These are just a few exemplary snippets of my Student Record Maintenance Software which made use of SQL commands in Oracle DB, PHP for API calling and HTML,CSS,Javascript for simple user friendly front-end forms. Postman was used as a tool to check API calling.
